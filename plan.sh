@@ -7,7 +7,7 @@ pkg_description="InSpec is an open-source testing framework for infrastructure
 pkg_upstream_url=https://www.inspec.io/
 pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
 pkg_source="https://github.com/inspec/inspec/archive/v${pkg_version}.tar.gz"
-pkg_shasum=f0dfc5d284c671e902bdd8dc6c589921df94fd01cb71cf674f36f7d0062b3e1f
+pkg_shasum=1f3149a3f6fb6455f36764b920f307a4e4ea2cd4517dda25befacd823a584197
 pkg_license=('Apache-2.0')
 pkg_deps=(
   core/coreutils
