@@ -1,6 +1,6 @@
 pkg_name=inspec
 pkg_origin=chef
-pkg_version=4.19.2
+pkg_version=4.20.1
 pkg_description="InSpec is an open-source testing framework for infrastructure
   with a human- and machine-readable language for specifying compliance,
   security and policy requirements."
