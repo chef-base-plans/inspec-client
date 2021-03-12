@@ -1,13 +1,13 @@
 pkg_name=inspec
 pkg_origin=chef
-pkg_version=4.20.5
+pkg_version=4.27.1
 pkg_description="InSpec is an open-source testing framework for infrastructure
   with a human- and machine-readable language for specifying compliance,
   security and policy requirements."
 pkg_upstream_url=https://www.inspec.io/
 pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
 pkg_source="https://github.com/inspec/inspec/archive/v${pkg_version}.tar.gz"
-pkg_shasum=7ea3bd5db362e04d72f2372b19e4867afb52e541caaea8882d0f2ac248b03624
+pkg_shasum=9d01bb6d30dbb5767d2b9d953dfa793944ed3fc1a2ae7729b2d039683d02bfc7
 pkg_license=('Apache-2.0')
 pkg_deps=(
   core/coreutils
